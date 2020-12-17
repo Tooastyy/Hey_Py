@@ -1,7 +1,7 @@
 # Hey_Py
-Virtual voice assistant
+## Virtual voice assistant
 
-Introduction to Hey Py
+### Introduction to Hey Py
 
 To start the program, after starting in PyCharm, just say Hey Py.
 Please make sure your pronunciation is as clear as possible.
@@ -15,9 +15,8 @@ Hey Py may not answer immediately, but it should answer after about 5 seconds.
 
 Thank you for installing Hey Py.
 
-#
-
-Einführung in Hey Py
+## Virtueller sprach assistent
+### Einführung in Hey Py
 
 Zum Starten des Programms, nach starten in PyCharm, einfach Hey Py sagen.
 Achten Sie dabei bitte auf möglich deutliche Aussprache.
