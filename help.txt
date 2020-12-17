@@ -1,0 +1,90 @@
+############################################################################################
+############################################################################################
+
+##       ##    #############   ##             ########
+##       ##    ############    ##             ##     ###
+##       ##    ##              ##             ##       ##
+##	 ##    ##              ##             ##       ##
+###########    ########        ##             ##     ###
+###########    ########        ##             ########
+##       ##    ##              ##             ##
+##	 ##    ##              ##             ##
+##	 ##    ##              ##             ##
+##	 ##    ############    ############   ##
+##	 ##    ############    ############   ##
+
+#############################################################################################
+#############################################################################################
+
+^^^
+This is The official Help Document for "Hey Py"
+^^^
+
+******
+Hey Py ist ein Virtueller Voice Assistant. Er kann simple Befehle (unten Aufgelisted) ausführen.
+******
+
+Commands:
+
+	^^Nützlich^^
+
+""help"" #öffnet dieses Dokument
+
+""Google"" #öffnet die Suchmaschiene Google
+
+""YouTube"" #öffnet YouTube
+
+""email"" #öffnet Outlook (Email Programm)
+
+""time"" #sagt dir die aktuelle Zeit
+
+""turn off"" #beendet das Programm
+
+""music"" #spielt ein zufälliges Lied
+
+""note"" #das gesprochene kann als notiz gespeichert werden
+
+"open list"" #liest die notizen vor
+
+""draw"" #öffnet ein fenster wo mit pfeiltasten gezeichnet werden kann
+
+	^^Einstellungen^^
+
+""user"" #Aktueller Nutzer kann geändert werden
+
+	^^Special^^
+
+""ask"" #schickt eine Email an Meinrad mit betreff "brauche Hilfe"
+
+""send email"" #schickt eine Email an Meinrad !just for fun!
+
+""jebaited"" #jebaited! (just try it...)
+
+""quote"" #liest ein selbst erstelltes schlechtes Zitat vor
+
+"sing for me"" #Hey Py singt ein Lied für dich (niemand hat gesagt das Hey Py gut singen  kann)
+
+""coinflip"" #Du kannst erraten auf welcher Seite die Münze landet
+
+
+######################################################################################
+
+All Rights reserved.
+
+Joel Brunner
+
+Hey Py© 2020
+
+######################################################################################
+
+Dankeschön an:
+
+Meinrad Bürgler
+
+Noël Graf
+
+#######################################################################################
+
+
+
+
