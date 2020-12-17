@@ -15,6 +15,10 @@ Hey Py may not answer immediately, but it should answer after about 5 seconds.
 
 Thank you for installing Hey Py.
 
+### Voice recognition provider
+
+Currently this uses the free tier of google, other implentations are not planned. If you use this software you do so at your own risks, I will not be held liabable for any damaged that incur while using this software.
+
 ## Virtueller sprach assistent
 ### Einführung in Hey Py
 
