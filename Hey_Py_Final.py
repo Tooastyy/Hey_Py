@@ -95,24 +95,6 @@ while True:     #kann nur mit dem "turn off" command beendet werden
         if "quote" in query:
             line = random.choice(open("quotes.txt").readlines())
             speak(line)
-        #write email
-        if "spam" in query:
-            speak("Spamming")
-            outlook = win32.Dispatch('outlook.application')
-            mail = outlook.CreateItem(0)
-            mail.To = "Meinrad.Buergler@bbcag.ch"
-            mail.Subject = "Hallo Meini"
-            mail.Body = 'Message body'
-            mail.Send()
-        #ask for help
-        if "ask" in query:
-            speak("asking for help")
-            outlook = win32.Dispatch('outlook.application')
-            mail = outlook.CreateItem(0)
-            mail.To = "Meinrad.Buergler@bbcag.ch"
-            mail.Subject = "Ich Bitte dich um Hilfe"
-            mail.Body = 'Message body'
-            mail.Send()
         #user name
         if "user" in query:
             speak("Whats your name?")
@@ -249,4 +231,4 @@ while True:     #kann nur mit dem "turn off" command beendet werden
             except Exception as e:
                 print("Error! Try again later")
                 time.sleep(5)
-            #ende
+            #end
